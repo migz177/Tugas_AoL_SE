@@ -1,5 +1,5 @@
 Stevan Pohan - 2702272943
-AOL - To Do List & Finance Management
+AOL - To Do List & Finance Management - KostLife
 
 Description:
 Project ini adalah aplikasi mobile untuk to-do list dan finance management. Project ini dibuat agar memudahkan masyarakat khususnya mahasiswa yang merantau supaya lebih terstruktur hidupnya.
